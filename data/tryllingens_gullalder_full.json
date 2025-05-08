@@ -6,7 +6,7 @@
       "title": "Buatier de Kolta",
       "summary": "Introduserer forsvinnende fuglebur – en revolusjonerende illusjon.",
       "details": "Et bur med en levende kanarifugl forsvinner mellom hendene hans.",
-      "image": "images/buatier-de-kolta.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Buatier_de_Kolta_Vanishing_Lady.jpg",
       "imageAlt": "Buatier de Kolta",
       "video": "videos/buatier-de-kolta.mp4"
     },
@@ -16,7 +16,7 @@
       "title": "Herrmann the Great",
       "summary": "Blir verdens første tryllestjerne med sitt ikoniske image.",
       "details": "Kjent for flosshatt, geiteskjegg og demonisk scenetilstedeværelse.",
-      "image": "images/herrmann-the-great.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Alexander_Herrmann.jpg",
       "imageAlt": "Alexander Herrmann",
       "video": "videos/herrmann-the-great.mp4"
     },
@@ -26,7 +26,7 @@
       "title": "Howard Thurston",
       "summary": "Arver Kellars trone og bygger verdens største magishow.",
       "details": "Showet hans krevde åtte togvogner og reiste gjennom hele USA.",
-      "image": "images/howard-thurston.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Howard_Thurston_the_magician_poster.jpg",
       "imageAlt": "Howard Thurston",
       "video": "videos/howard-thurston.mp4"
     },
@@ -46,7 +46,7 @@
       "title": "The Great Lafayette dør i teaterbrann",
       "summary": "Lafayette og hans dyr omkommer under en forestilling i Edinburgh.",
       "details": "Over 250 000 mennesker følger begravelsen – et symbol på magiens storhetstid.",
-      "image": "images/the-great-lafayette.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Great_Lafayette_portrait.jpg",
       "imageAlt": "The Great Lafayette",
       "video": "videos/the-great-lafayette.mp4"
     },
@@ -56,7 +56,7 @@
       "title": "Selbit sager kvinnen i to",
       "summary": "En av de mest ikoniske illusjonene i tryllekunstens historie introduseres.",
       "details": "Selbit skaper sjokkbølger og inspirerer en hel generasjon illusjonister.",
-      "image": "images/selbit-sag.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/P._T._Selbit.png",
       "imageAlt": "Selbit",
       "video": "videos/selbit-sag.mp4"
     }
