@@ -4,8 +4,8 @@
       "year": "1875",
       "category": "performers",
       "title": "Buatier de Kolta",
-      "summary": "Introduserer forsvinnende fuglebur – en revolusjonerende illusjon.",
-      "details": "Et bur med en levende kanarifugl forsvinner mellom hendene hans – en illusjon som inspirerte mange etterkommere.",
+      "summary": "Fransk illusjonist kjent for nyskapende triks som forsvinnende fuglebur.",
+      "details": "Joseph Buatier opptrer i London i 1875 og introduserer flere nyskapende illusjoner. Han blir kjent for eleganse og teknisk finesse, og hans triks, som forsvinnende fuglebur og den krympende dame, blir standard i senere generasjoners repertoar.",
       "image": "images/buatier-de-kolta.jpg",
       "imageAlt": "Buatier de Kolta",
       "video": ""
@@ -14,30 +14,10 @@
       "year": "1883",
       "category": "performers",
       "title": "Herrmann the Great",
-      "summary": "Blir verdens første tryllestjerne med sitt ikoniske image.",
-      "details": "Kjent for flosshatt, geiteskjegg og demonisk scenetilstedeværelse. Han blandet humor og mystikk og reiste verden rundt.",
+      "summary": "Verdens første magistjerne – kjent for djevelsk image og humor.",
+      "details": "Alexander Herrmann kombinerte mørk mystikk med humor og eleganse. Hans ikoniske fremtoning med flosshatt og spisst skjegg ble en mal for magikere. Han reiste på turné i både Europa og Amerika og ble kjent for store illusjoner, komikk og språklig fleksibilitet.",
       "image": "images/herrmann-the-great.jpg",
       "imageAlt": "Alexander Herrmann",
-      "video": ""
-    },
-    {
-      "year": "1908",
-      "category": "performers",
-      "title": "Howard Thurston",
-      "summary": "Arver Kellars trone og bygger verdens største magishow.",
-      "details": "Showet hans krevde åtte togvogner og reiste gjennom hele USA. Thurston sjarmerte publikum med klassisk illusjonsmagi.",
-      "image": "images/howard-thurston.jpg",
-      "imageAlt": "Howard Thurston",
-      "video": ""
-    },
-    {
-      "year": "1912",
-      "category": "inventions",
-      "title": "Houdinis vanntortur",
-      "summary": "Rømming fra opp-ned vanntank blir hans signaturstunt.",
-      "details": "Han ble lenket og senket i en vanntank foran tusenvis – og unnslapp. Dette gjorde Houdini til et internasjonalt ikon.",
-      "image": "images/houdini-torture-cell.jpg",
-      "imageAlt": "Harry Houdini",
       "video": ""
     }
   ]
