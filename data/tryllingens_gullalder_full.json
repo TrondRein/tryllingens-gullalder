@@ -1,0 +1,50 @@
+{
+  "config": {
+    "title": "Tryllingens Gullalder",
+    "subtitle": "1875 - 1925",
+    "intro": {
+      "title": "En magisk epoke",
+      "text": "En visuell tidslinje over tryllekunstens gullalder – med bilder og hendelser som flyter inn i synet mens du scroller."
+    },
+    "categories": [
+      {
+        "id": "performers",
+        "name": "Tryllekunstnere"
+      },
+      {
+        "id": "inventions",
+        "name": "Oppfinnelser"
+      },
+      {
+        "id": "events",
+        "name": "Historiske hendelser"
+      }
+    ],
+    "footer": {
+      "copyright": "© 2025 Tryllemuseet",
+      "info": "Utviklet for mobilvisning"
+    }
+  },
+  "timelineItems": [
+    {
+      "year": "1875",
+      "category": "performers",
+      "title": "Buatier de Kolta",
+      "summary": "Introduserer forsvinnende fuglebur – en revolusjonerende illusjon.",
+      "details": "Et bur med en levende kanarifugl forsvinner mellom hendene hans.",
+      "image": "images/buatier-de-kolta.jpg",
+      "imageAlt": "Buatier de Kolta",
+      "video": "videos/buatier-de-kolta.mp4"
+    },
+    {
+      "year": "1883",
+      "category": "performers",
+      "title": "Herrmann the Great",
+      "summary": "Blir verdens første tryllestjerne med sitt ikoniske image.",
+      "details": "Kjent for flosshatt, geiteskjegg og demonisk scenetilstedeværelse.",
+      "image": "images/herrmann-the-great.jpg",
+      "imageAlt": "Alexander Herrmann",
+      "video": "videos/herrmann-the-great.mp4"
+    }
+  ]
+}
