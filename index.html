@@ -5,12 +5,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tryllingens Gullalder</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Inter&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="logo-intro">
-    <img src="images/logo.png" alt="Tryllemuseet-logo" />
-  </div>
+  <div class="bg-logo"></div>
   <h1 class="tittel">Tryllingens Gullalder<br><span>1875–1925</span></h1>
   <nav class="filter-nav">
     <button onclick="filterData('alle')">Alle</button>
@@ -18,13 +17,9 @@
     <button onclick="filterData('inventions')">Oppfinnelser</button>
     <button onclick="filterData('events')">Historiske hendelser</button>
   </nav>
-  <div class="intro-block">
-    <h2>🔮 Tryllingens Gullalder</h2>
-    <p>Utforsk 50 år med illusjoner, illusjonister og innovasjon. Fra de første triksene i teatersalene til Houdinis spektakulære rømningsnumre.</p>
-  </div>
   <div class="timeline-wrapper">
-    <svg class="timeline-svg" viewBox="0 0 200 3000">
-      <path d="M 100 0 Q 50 150, 100 300 Q 150 450, 100 600 Q 50 750, 100 900 Q 150 1050, 100 1200" fill="none" stroke="#f3d184" stroke-width="3"/>
+    <svg class="timeline-svg" viewBox="0 0 200 3200">
+      <path d="M 100 0 Q 0 100, 100 200 Q 200 300, 100 400 Q 0 500, 100 600 Q 200 700, 100 800 Q 0 900, 100 1000 Q 200 1100, 100 1200 Q 0 1300, 100 1400 Q 200 1500, 100 1600 Q 0 1700, 100 1800 Q 200 1900, 100 2000" fill="none" stroke="#f3d184" stroke-width="2"/>
     </svg>
     <div id="timeline-items" class="timeline-items"></div>
   </div>
