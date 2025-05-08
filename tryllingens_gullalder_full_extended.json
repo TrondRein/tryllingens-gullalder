@@ -1,0 +1,60 @@
+{
+  "config": {
+    "title": "Tryllingens Gullalder",
+    "subtitle": "1875 - 1925",
+    "intro": {
+      "title": "En magisk epoke",
+      "text": "Opplev 50 år med blendende illusjoner og ikoniske magikere."
+    },
+    "categories": [
+      {
+        "id": "performers",
+        "name": "Tryllekunstnere"
+      },
+      {
+        "id": "inventions",
+        "name": "Oppfinnelser"
+      },
+      {
+        "id": "events",
+        "name": "Historiske hendelser"
+      }
+    ],
+    "footer": {
+      "copyright": "© 2025 Tryllingens Gullalder | En interaktiv tidsakse",
+      "info": "Utviklet for mobilvisning"
+    }
+  },
+  "timelineItems": [
+    {
+      "year": "1873",
+      "category": "events",
+      "title": "Egyptian Hall åpner i London",
+      "summary": "Maskelyne & Cooke åpner et magiteater som blir hjem for illusjoner i 31 år.",
+      "details": "Egyptian Hall blir verdens første faste magiteater, og starten på en magisk æra.",
+      "image": "images/egyptian-hall.jpg",
+      "imageAlt": "Egyptian Hall åpner i London",
+      "video": "videos/egyptian-hall.mp4"
+    },
+    {
+      "year": "1875",
+      "category": "performers",
+      "title": "Buatier de Kolta introduserer forsvinnende fuglebur",
+      "summary": "Et ikonisk triks som raskt blir kopiert over hele Europa.",
+      "details": "Joseph Buatier, kjent som Buatier de Kolta, sjokkerer publikum i London.",
+      "image": "images/buatier-de-kolta.jpg",
+      "imageAlt": "Buatier de Kolta introduserer forsvinnende fuglebur",
+      "video": "videos/buatier-de-kolta.mp4"
+    },
+    {
+      "year": "1877",
+      "category": "inventions",
+      "title": "Psycho-automaten presenteres",
+      "summary": "Maskelyne introduserer en mekanisk kortspiller som fascinerer publikum.",
+      "details": "En banebrytende automaton opptrer tilsynelatende uten mekaniske forbindelser.",
+      "image": "images/psycho-maskelyne.jpg",
+      "imageAlt": "Psycho-automaten presenteres",
+      "video": "videos/psycho-maskelyne.mp4"
+    }
+  ]
+}
