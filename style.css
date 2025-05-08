@@ -193,3 +193,30 @@ body {
     border-right: none;
   }
 }
+
+
+.sticky-header {
+  background: #fdfaf4;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  padding-bottom: 1em;
+}
+.filter-nav {
+  text-align: center;
+  margin-top: 0.5em;
+}
+.filter-nav button {
+  margin: 0.2em;
+  padding: 0.6em 1.2em;
+  background: #4a90e2;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+.filter-nav button:hover {
+  background: #2c6ecb;
+}
