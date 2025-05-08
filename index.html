@@ -8,16 +8,23 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Tryllingens Gullalder<br><small>1875–1925</small></h1>
-    <nav>
-      <button onclick="filterData('alle')">Alle</button>
-      <button onclick="filterData('performers')">Tryllekunstnere</button>
-      <button onclick="filterData('inventions')">Oppfinnelser</button>
-      <button onclick="filterData('events')">Historiske hendelser</button>
-    </nav>
-  </header>
-  <main id="timeline-container"></main>
+  <h1 class="tittel">Tryllingens Gullalder<br><span>1875–1925</span></h1>
+
+  <div class="timeline-wrapper">
+    <svg class="timeline-svg" viewBox="0 0 200 3000" preserveAspectRatio="xMidYMin meet">
+      <path d="M 100 0 Q 50 150, 100 300 Q 150 450, 100 600 Q 50 750, 100 900 Q 150 1050, 100 1200 Q 50 1350, 100 1500 Q 150 1650, 100 1800 Q 50 1950, 100 2100 Q 150 2250, 100 2400 Q 50 2550, 100 2700 Q 150 2850, 100 3000" fill="transparent" stroke="#5b4636" stroke-width="3"/>
+    </svg>
+    <div id="timeline-items" class="timeline-items"></div>
+  </div>
+
+  <!-- Popup container -->
+  <div id="popup">
+    <div class="popup-content">
+      <span class="close-btn">✖</span>
+      <div id="popup-inner"></div>
+    </div>
+  </div>
+
   <script src="timeline.js"></script>
 </body>
 </html>
