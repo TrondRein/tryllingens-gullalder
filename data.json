@@ -1,0 +1,13 @@
+
+[
+  {
+    "id": "houdini-escape",
+    "type": "kunstner",
+    "år": 1904,
+    "tittel": "Harry Houdinis berømte fengselsflukt",
+    "beskrivelse": "Houdini rømte fra Scotland Yards celler – et PR-stunt som sjokkerte London.",
+    "bilde": "bilder/houdini.jpg",
+    "video": "https://youtube.com/houdini-flukt",
+    "lyd": "https://soundcloud.com/houdini-intervju"
+  }
+]
