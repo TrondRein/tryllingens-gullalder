@@ -16,15 +16,20 @@ fetch('data/tryllingens_gullalder_full_complete.json')
       const side = index % 2 === 0 ? 'left' : 'right';
       const div = document.createElement('div');
       div.className = 'timeline-item ' + side;
-      div.innerHTML = `
+
+      const contentHTML = `
         <div class="content">
+          <button class="more-info-btn" title="Mer info">🔍</button>
           <h2>${item.year} – ${item.title}</h2>
           <p>${item.summary}</p>
           ${item.image ? `<img src="${item.image}" alt="${item.imageAlt || ''}">` : ''}
           ${item.video ? `<p><a href="${item.video}" target="_blank">Se video</a></p>` : ''}
         </div>
       `;
-      div.querySelector('.content').onclick = () => {
+
+      div.innerHTML = contentHTML;
+
+      const openPopup = () => {
         popupInner.innerHTML = `
           <h2>${item.year} – ${item.title}</h2>
           <p>${item.details || item.summary}</p>
@@ -33,6 +38,13 @@ fetch('data/tryllingens_gullalder_full_complete.json')
         `;
         popup.style.display = 'flex';
       };
+
+      div.querySelector('.content').onclick = openPopup;
+      div.querySelector('.more-info-btn').onclick = (e) => {
+        e.stopPropagation();
+        openPopup();
+      };
+
       container.appendChild(div);
     });
   });
