@@ -4,7 +4,7 @@
       "year": "1875",
       "category": "performers",
       "title": "Buatier de Kolta",
-      "summary": "Fransk illusjonist kjent for nyskapende triks som forsvinnende fuglebur.",
+      "summary": "Fransk illusjonist kjent for illusjoner som forsvinnende fuglebur.",
       "details": "Joseph Buatier opptrer i London i 1875 og introduserer flere nyskapende illusjoner. Han blir kjent for eleganse og teknisk finesse, og hans triks, som forsvinnende fuglebur og den krympende dame, blir standard i senere generasjoners repertoar.",
       "image": "images/buatier-de-kolta.jpg",
       "imageAlt": "Buatier de Kolta",
@@ -14,10 +14,30 @@
       "year": "1883",
       "category": "performers",
       "title": "Herrmann the Great",
-      "summary": "Verdens første magistjerne – kjent for djevelsk image og humor.",
-      "details": "Alexander Herrmann kombinerte mørk mystikk med humor og eleganse. Hans ikoniske fremtoning med flosshatt og spisst skjegg ble en mal for magikere. Han reiste på turné i både Europa og Amerika og ble kjent for store illusjoner, komikk og språklig fleksibilitet.",
+      "summary": "Verdens første magistjerne med ikonisk image og teatral stil.",
+      "details": "Alexander Herrmann blandet mørk mystikk med humor og eleganse. Hans ikoniske fremtoning med flosshatt og spisst skjegg ble en mal for senere magikere. Han reiste både i Europa og Amerika og var kjent for store illusjoner og teatralsk scenefremføring.",
       "image": "images/herrmann-the-great.jpg",
       "imageAlt": "Alexander Herrmann",
+      "video": ""
+    },
+    {
+      "year": "1908",
+      "category": "performers",
+      "title": "Howard Thurston",
+      "summary": "Tok over etter Kellar og bygget verdens største magishow.",
+      "details": "Thurston arvet Kellars plass og ble USAs ledende illusjonist. Hans show krevde flere togvogner for å frakte utstyret og turnerte hele USA. Han sjarmerte publikum med klassiske illusjoner og en vennlig sceneopptreden.",
+      "image": "images/howard-thurston.jpg",
+      "imageAlt": "Howard Thurston",
+      "video": ""
+    },
+    {
+      "year": "1912",
+      "category": "inventions",
+      "title": "Houdinis vanntortur",
+      "summary": "Houdini introduserer sin legendariske vanntank-flukt.",
+      "details": "I 1912 introduserte Houdini 'The Water Torture Cell' – et stunt hvor han ble lenket og senket opp-ned i en vanntank. Flukten krevde ekstrem utholdenhet og ble et varemerke som befestet Houdinis posisjon som rømningsmester.",
+      "image": "images/houdini-torture-cell.jpg",
+      "imageAlt": "Harry Houdini",
       "video": ""
     }
   ]
