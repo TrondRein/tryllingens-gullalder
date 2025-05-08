@@ -1,64 +1,64 @@
 {
   "timelineItems": [
     {
-      "year": "1875",
+      "year": "19xx",
       "category": "performers",
-      "title": "Buatier de Kolta",
-      "summary": "Introduserer forsvinnende fuglebur – en revolusjonerende illusjon.",
-      "details": "Et bur med en levende kanarifugl forsvinner mellom hendene hans.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Buatier_de_Kolta_Vanishing_Lady.jpg",
-      "imageAlt": "Buatier de Kolta",
-      "video": "videos/buatier-de-kolta.mp4"
+      "title": "Buatier De Kolta",
+      "summary": "Historisk presentasjon av Buatier De Kolta.",
+      "details": "Dette er et representativt bilde fra perioden knyttet til Buatier De Kolta.",
+      "image": "images/buatier-de-kolta.jpg",
+      "imageAlt": "Buatier De Kolta",
+      "video": ""
     },
     {
-      "year": "1883",
+      "year": "19xx",
       "category": "performers",
-      "title": "Herrmann the Great",
-      "summary": "Blir verdens første tryllestjerne med sitt ikoniske image.",
-      "details": "Kjent for flosshatt, geiteskjegg og demonisk scenetilstedeværelse.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Alexander_Herrmann.jpg",
-      "imageAlt": "Alexander Herrmann",
-      "video": "videos/herrmann-the-great.mp4"
+      "title": "Herrmann The Great",
+      "summary": "Historisk presentasjon av Herrmann The Great.",
+      "details": "Dette er et representativt bilde fra perioden knyttet til Herrmann The Great.",
+      "image": "images/herrmann-the-great.jpg",
+      "imageAlt": "Herrmann The Great",
+      "video": ""
     },
     {
-      "year": "1908",
+      "year": "19xx",
       "category": "performers",
       "title": "Howard Thurston",
-      "summary": "Arver Kellars trone og bygger verdens største magishow.",
-      "details": "Showet hans krevde åtte togvogner og reiste gjennom hele USA.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Howard_Thurston_the_magician_poster.jpg",
+      "summary": "Historisk presentasjon av Howard Thurston.",
+      "details": "Dette er et representativt bilde fra perioden knyttet til Howard Thurston.",
+      "image": "images/howard-thurston.jpg",
       "imageAlt": "Howard Thurston",
-      "video": "videos/howard-thurston.mp4"
+      "video": ""
     },
     {
-      "year": "1912",
-      "category": "inventions",
-      "title": "Houdinis vanntortur",
-      "summary": "Rømming fra opp-ned vanntank blir hans signaturstunt.",
-      "details": "Han lenkes og senkes i vanntank foran tusenvis – og unnslipper.",
+      "year": "19xx",
+      "category": "performers",
+      "title": "Houdini Torture Cell",
+      "summary": "Historisk presentasjon av Houdini Torture Cell.",
+      "details": "Dette er et representativt bilde fra perioden knyttet til Houdini Torture Cell.",
       "image": "images/houdini-torture-cell.jpg",
-      "imageAlt": "Harry Houdini",
-      "video": "videos/houdini-torture-cell.mp4"
+      "imageAlt": "Houdini Torture Cell",
+      "video": ""
     },
     {
-      "year": "1911",
-      "category": "events",
-      "title": "The Great Lafayette dør i teaterbrann",
-      "summary": "Lafayette og hans dyr omkommer under en forestilling i Edinburgh.",
-      "details": "Over 250 000 mennesker følger begravelsen – et symbol på magiens storhetstid.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Great_Lafayette_portrait.jpg",
+      "year": "19xx",
+      "category": "performers",
+      "title": "The Great Lafayette",
+      "summary": "Historisk presentasjon av The Great Lafayette.",
+      "details": "Dette er et representativt bilde fra perioden knyttet til The Great Lafayette.",
+      "image": "images/the-great-lafayette.jpg",
       "imageAlt": "The Great Lafayette",
-      "video": "videos/the-great-lafayette.mp4"
+      "video": ""
     },
     {
-      "year": "1920",
-      "category": "inventions",
-      "title": "Selbit sager kvinnen i to",
-      "summary": "En av de mest ikoniske illusjonene i tryllekunstens historie introduseres.",
-      "details": "Selbit skaper sjokkbølger og inspirerer en hel generasjon illusjonister.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/P._T._Selbit.png",
-      "imageAlt": "Selbit",
-      "video": "videos/selbit-sag.mp4"
+      "year": "19xx",
+      "category": "performers",
+      "title": "Selbit Sag",
+      "summary": "Historisk presentasjon av Selbit Sag.",
+      "details": "Dette er et representativt bilde fra perioden knyttet til Selbit Sag.",
+      "image": "images/selbit-sag.jpg",
+      "imageAlt": "Selbit Sag",
+      "video": ""
     }
   ]
 }
