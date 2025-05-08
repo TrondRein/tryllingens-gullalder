@@ -1,63 +1,43 @@
 {
   "timelineItems": [
     {
-      "year": "19xx",
+      "year": "1875",
       "category": "performers",
-      "title": "Buatier De Kolta",
-      "summary": "Historisk presentasjon av Buatier De Kolta.",
-      "details": "Dette er et representativt bilde fra perioden knyttet til Buatier De Kolta.",
+      "title": "Buatier de Kolta",
+      "summary": "Introduserer forsvinnende fuglebur – en revolusjonerende illusjon.",
+      "details": "Et bur med en levende kanarifugl forsvinner mellom hendene hans – en illusjon som inspirerte mange etterkommere.",
       "image": "images/buatier-de-kolta.jpg",
-      "imageAlt": "Buatier De Kolta",
+      "imageAlt": "Buatier de Kolta",
       "video": ""
     },
     {
-      "year": "19xx",
+      "year": "1883",
       "category": "performers",
-      "title": "Herrmann The Great",
-      "summary": "Historisk presentasjon av Herrmann The Great.",
-      "details": "Dette er et representativt bilde fra perioden knyttet til Herrmann The Great.",
+      "title": "Herrmann the Great",
+      "summary": "Blir verdens første tryllestjerne med sitt ikoniske image.",
+      "details": "Kjent for flosshatt, geiteskjegg og demonisk scenetilstedeværelse. Han blandet humor og mystikk og reiste verden rundt.",
       "image": "images/herrmann-the-great.jpg",
-      "imageAlt": "Herrmann The Great",
+      "imageAlt": "Alexander Herrmann",
       "video": ""
     },
     {
-      "year": "19xx",
+      "year": "1908",
       "category": "performers",
       "title": "Howard Thurston",
-      "summary": "Historisk presentasjon av Howard Thurston.",
-      "details": "Dette er et representativt bilde fra perioden knyttet til Howard Thurston.",
+      "summary": "Arver Kellars trone og bygger verdens største magishow.",
+      "details": "Showet hans krevde åtte togvogner og reiste gjennom hele USA. Thurston sjarmerte publikum med klassisk illusjonsmagi.",
       "image": "images/howard-thurston.jpg",
       "imageAlt": "Howard Thurston",
       "video": ""
     },
     {
-      "year": "19xx",
-      "category": "performers",
-      "title": "Houdini Torture Cell",
-      "summary": "Historisk presentasjon av Houdini Torture Cell.",
-      "details": "Dette er et representativt bilde fra perioden knyttet til Houdini Torture Cell.",
+      "year": "1912",
+      "category": "inventions",
+      "title": "Houdinis vanntortur",
+      "summary": "Rømming fra opp-ned vanntank blir hans signaturstunt.",
+      "details": "Han ble lenket og senket i en vanntank foran tusenvis – og unnslapp. Dette gjorde Houdini til et internasjonalt ikon.",
       "image": "images/houdini-torture-cell.jpg",
-      "imageAlt": "Houdini Torture Cell",
-      "video": ""
-    },
-    {
-      "year": "19xx",
-      "category": "performers",
-      "title": "The Great Lafayette",
-      "summary": "Historisk presentasjon av The Great Lafayette.",
-      "details": "Dette er et representativt bilde fra perioden knyttet til The Great Lafayette.",
-      "image": "images/the-great-lafayette.jpg",
-      "imageAlt": "The Great Lafayette",
-      "video": ""
-    },
-    {
-      "year": "19xx",
-      "category": "performers",
-      "title": "Selbit Sag",
-      "summary": "Historisk presentasjon av Selbit Sag.",
-      "details": "Dette er et representativt bilde fra perioden knyttet til Selbit Sag.",
-      "image": "images/selbit-sag.jpg",
-      "imageAlt": "Selbit Sag",
+      "imageAlt": "Harry Houdini",
       "video": ""
     }
   ]
