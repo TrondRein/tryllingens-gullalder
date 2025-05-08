@@ -14,24 +14,29 @@ fetch('data/tryllingens_gullalder_full.json')
       div.className = `timeline-item ${side}`;
       div.innerHTML = `
         <div class="content">
+          <button class="more-info-btn" title="Mer info">🔍</button>
           <h2>${item.year} – ${item.title}</h2>
           <p>${item.summary}</p>
           ${item.image ? `<img src="${item.image}" alt="${item.imageAlt || ''}">` : ''}
         </div>
       `;
-      div.querySelector('.content').onclick = () => {
+      const openPopup = () => {
         popupInner.innerHTML = `
           <h2>${item.year} – ${item.title}</h2>
-          <p>${item.details}</p>
+          <p>${item.details || item.summary}</p>
           ${item.image ? `<img src="${item.image}" alt="${item.imageAlt || ''}" style="max-width:100%;">` : ''}
           ${item.video ? `<p><a href="${item.video}" target="_blank">Se video</a></p>` : ''}
         `;
         popup.style.display = 'flex';
       };
+      div.querySelector('.content').onclick = openPopup;
+      div.querySelector('.more-info-btn').onclick = (e) => {
+        e.stopPropagation();
+        openPopup();
+      };
       container.appendChild(div);
     });
 
-    // Scroll-basert animasjon
     const observer = new IntersectionObserver(entries => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
@@ -40,7 +45,6 @@ fetch('data/tryllingens_gullalder_full.json')
         }
       });
     }, { threshold: 0.1 });
-
     const items = document.querySelectorAll('.timeline-item');
     items.forEach(item => observer.observe(item));
   });
