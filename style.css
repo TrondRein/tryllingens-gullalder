@@ -1,25 +1,50 @@
 
 body {
-  font-family: 'Georgia', serif;
-  background-color: #f4f1ec;
-  color: #333;
+  font-family: Georgia, serif;
   margin: 0;
-  padding: 0;
+  background: #fdfaf4;
+  color: #2e1e12;
 }
-header {
+.tittel {
   text-align: center;
-  background-color: #eee4d0;
   padding: 1em;
 }
-nav button {
-  margin: 0.5em;
-  padding: 0.5em 1em;
-  background-color: #a67c52;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+.timeline-wrapper {
+  position: relative;
+  max-width: 1000px;
+  margin: auto;
 }
-main {
-  padding: 2em;
+.timeline-svg {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 200px;
+  height: 3000px;
+  z-index: 0;
+}
+.timeline-items {
+  position: relative;
+  z-index: 1;
+}
+.timeline-item {
+  width: 50%;
+  padding: 1em;
+  box-sizing: border-box;
+  position: relative;
+}
+.timeline-item.left {
+  left: 0;
+  text-align: right;
+}
+.timeline-item.right {
+  left: 50%;
+  text-align: left;
+}
+.timeline-item .content {
+  background: #fff7eb;
+  border: 1px solid #c9b7a7;
+  border-radius: 10px;
+  padding: 1em;
+  margin: 2em 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
