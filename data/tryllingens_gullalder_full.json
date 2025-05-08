@@ -1,30 +1,4 @@
 {
-  "config": {
-    "title": "Tryllingens Gullalder",
-    "subtitle": "1875 - 1925",
-    "intro": {
-      "title": "En magisk epoke",
-      "text": "En visuell tidslinje over tryllekunstens gullalder – med bilder og hendelser som flyter inn i synet mens du scroller."
-    },
-    "categories": [
-      {
-        "id": "performers",
-        "name": "Tryllekunstnere"
-      },
-      {
-        "id": "inventions",
-        "name": "Oppfinnelser"
-      },
-      {
-        "id": "events",
-        "name": "Historiske hendelser"
-      }
-    ],
-    "footer": {
-      "copyright": "© 2025 Tryllemuseet",
-      "info": "Utviklet for mobilvisning"
-    }
-  },
   "timelineItems": [
     {
       "year": "1875",
@@ -45,6 +19,46 @@
       "image": "images/herrmann-the-great.jpg",
       "imageAlt": "Alexander Herrmann",
       "video": "videos/herrmann-the-great.mp4"
+    },
+    {
+      "year": "1908",
+      "category": "performers",
+      "title": "Howard Thurston",
+      "summary": "Arver Kellars trone og bygger verdens største magishow.",
+      "details": "Showet hans krevde åtte togvogner og reiste gjennom hele USA.",
+      "image": "images/howard-thurston.jpg",
+      "imageAlt": "Howard Thurston",
+      "video": "videos/howard-thurston.mp4"
+    },
+    {
+      "year": "1912",
+      "category": "inventions",
+      "title": "Houdinis vanntortur",
+      "summary": "Rømming fra opp-ned vanntank blir hans signaturstunt.",
+      "details": "Han lenkes og senkes i vanntank foran tusenvis – og unnslipper.",
+      "image": "images/houdini-torture-cell.jpg",
+      "imageAlt": "Harry Houdini",
+      "video": "videos/houdini-torture-cell.mp4"
+    },
+    {
+      "year": "1911",
+      "category": "events",
+      "title": "The Great Lafayette dør i teaterbrann",
+      "summary": "Lafayette og hans dyr omkommer under en forestilling i Edinburgh.",
+      "details": "Over 250 000 mennesker følger begravelsen – et symbol på magiens storhetstid.",
+      "image": "images/the-great-lafayette.jpg",
+      "imageAlt": "The Great Lafayette",
+      "video": "videos/the-great-lafayette.mp4"
+    },
+    {
+      "year": "1920",
+      "category": "inventions",
+      "title": "Selbit sager kvinnen i to",
+      "summary": "En av de mest ikoniske illusjonene i tryllekunstens historie introduseres.",
+      "details": "Selbit skaper sjokkbølger og inspirerer en hel generasjon illusjonister.",
+      "image": "images/selbit-sag.jpg",
+      "imageAlt": "Selbit",
+      "video": "videos/selbit-sag.mp4"
     }
   ]
 }
