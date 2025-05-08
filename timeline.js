@@ -21,7 +21,7 @@ fetch('data/tryllingens_gullalder_full.json')
         </div>
       `;
       const openPopup = () => {
-        popupInner.innerHTML = `
+        popupInner.innerHTML = `<h2>${item.year} – ${item.title}</h2><p>${item.details || item.summary}</p>${item.image ? `<img src='${item.image}' alt='${item.imageAlt || ''}' style='max-width:100%;margin-top:1em;'>` : ''}${item.video ? `<p><a href='${item.video}' target='_blank'>Se video</a></p>` : ''}`;
           <h2>${item.year} – ${item.title}</h2>
           <p>${item.details || item.summary}</p>
           ${item.image ? `<img src="${item.image}" alt="${item.imageAlt || ''}" style="max-width:100%;">` : ''}

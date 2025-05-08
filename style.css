@@ -178,3 +178,18 @@ body {
   color: #4a5568;
   background: #edf2f7;
 }
+
+@media (max-width: 768px) {
+  .timeline-item {
+    width: 66.66% !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    text-align: left !important;
+  }
+
+  .timeline-item.right .content,
+  .timeline-item.left .content {
+    border-left: 4px solid #4a90e2;
+    border-right: none;
+  }
+}
