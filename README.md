@@ -1,33 +1,12 @@
+# 📸 Bilder til tidslinjen
 
-# 🎩 Tryllingens Gullalder – Interaktiv Tidslinje (1875–1925)
+Last ned og lagre disse bildene i `images/`-mappen for lokal bruk:
 
-Dette prosjektet presenterer tryllekunstens gullalder i en responsiv, mobilvennlig og interaktiv tidslinje.  
-Dataene lastes inn fra en strukturert JSON-fil og inneholder bilder, tekst og videoplassholdere.
+- [buatier-de-kolta.jpg](https://upload.wikimedia.org/wikipedia/commons/5/58/Buatier_de_Kolta_Vanishing_Lady.jpg)
+- [herrmann-the-great.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/Alexander_Herrmann.jpg)
+- [howard-thurston.jpg](https://upload.wikimedia.org/wikipedia/commons/7/76/Howard_Thurston_the_magician_poster.jpg)
+- [houdini-torture-cell.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4b/Houdini_water_torture_cell_poster.jpg)
+- [the-great-lafayette.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f2/Great_Lafayette_portrait.jpg)
+- [selbit-sag.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f4/P._T._Selbit.png)
 
-## 📦 Innhold
-- `index.html`: Hovedsiden som viser tidslinjen
-- `style.css`: Tilpasset fargeskjema og typografi
-- `timeline.js`: Dynamisk visning av JSON-data
-- `data/tryllingens_gullalder_full_complete.json`: Komplett datasett med gullalderens høydepunkter
-- `images/`: Bildefiler knyttet til hver oppføring (f.eks. `images/houdini-torture-cell.jpg`)
-- `videos/`: Videofiler eller lenker (f.eks. `videos/houdini-torture-cell.mp4`)
-
-## 🌍 Hvordan bruke
-1. Last opp hele prosjektmappen til et nytt GitHub-repository
-2. Gå til **Settings > Pages**
-3. Under "Source", velg `main` og `/ (root)` som mappe
-4. Du får en URL som f.eks. `https://brukernavn.github.io/reponavn`
-
-> 📌 Sørg for at bildefiler og videofiler følger navnekonvensjonene som angitt i JSON-filen (slug-basert).
-
-## 🔧 Tilpassing
-- Endre farger og fonter i `style.css`
-- Rediger JSON-data i `data/tryllingens_gullalder_full_complete.json` for å legge til, endre eller fjerne innhold
-- Legg til eller bytt ut bilder og videoer i `images/` og `videos/`
-
-## 📚 Kilder
-Basert på historisk dokumentasjon og biografier fra Tryllemuseets arkiver.  
-Kombinert og tilrettelagt for visning i nettleser.
-
-## © Lisens
-© 2025 Tryllemuseet – utviklet som et formidlingsverktøy for magiens historie.
+Disse er brukt i `data/tryllingens_gullalder_full.json` og vises i nettleseren så snart de er på plass.
